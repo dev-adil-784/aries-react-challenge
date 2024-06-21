@@ -1,4 +1,4 @@
-# Options Breakeven Calculation
+# Options Risk/Reward Calculation
 
 When trading options, understanding the breakeven points is crucial for assessing profitability and risk. This guide explains how to calculate breakeven points for both call and put options, considering both long and short positions.
 
@@ -50,3 +50,5 @@ To start the project locally simply run
 ```bash
   npm run start
 ```
+
+<img width="1020" alt="Screenshot 2024-06-21 at 12 40 41 PM" src="https://github.com/dev-adil-784/aries-react-challenge/assets/134547823/ea8552f3-7a25-44ea-9f6b-a5bc684c77c6">
