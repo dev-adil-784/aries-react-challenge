@@ -34,3 +34,19 @@ A short put option obligates the trader to buy the underlying asset at the strik
 **Breakeven Price for Short Put Option:**
 \[ \text{Breakeven Price} = \text{Strike Price} - \text{Premium Received} \]
 
+## Installation
+
+You can install this project by
+
+```bash
+  cd project-directory
+  npm install
+```
+
+## Starting
+
+To start the project locally simply run 
+
+```bash
+  npm run start
+```
